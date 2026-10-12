@@ -1,5 +1,7 @@
 # Ahmad Alhallak
 
+<img src="https://ahmadalhallak.com/wp-content/themes/alhallak/assets/img/ahmad-alhallak-web-developer.webp" alt="Ahmad Alhallak, web developer" width="200" align="right">
+
 **Web developer** focused on front end and WordPress.
 I design and code interfaces that feel as good as they work, in Arabic and English.
 
