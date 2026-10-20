@@ -6,8 +6,8 @@
 I design and code interfaces that feel as good as they work, in Arabic and English.
 
 🌐 Portfolio: [ahmadalhallak.com](https://ahmadalhallak.com)
-💼 LinkedIn: [Ahmad Alhallak](https://www.linkedin.com/in/ahmad-a-072497378/)
-📄 CV: [Download](https://ahmadalhallak.com/wp-content/themes/alhallak/assets/docs/Ahmad-Alhallak-CV.pdf?v=20261020)
+💼 LinkedIn: [Ahmad Alhallak](https://www.linkedin.com/in/ahmadalhallak/)
+📄 CV: [Download](https://ahmadalhallak.com/wp-content/themes/alhallak/assets/docs/Ahmad-Alhallak-CV.pdf?v=20261020b)
 
 ## Selected work
 
