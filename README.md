@@ -7,16 +7,16 @@ I design and code interfaces that feel as good as they work, in Arabic and Engli
 
 🌐 Portfolio: [ahmadalhallak.com](https://ahmadalhallak.com)
 💼 LinkedIn: [Ahmad Alhallak](https://www.linkedin.com/in/ahmad-a-072497378/)
-📄 CV: [Download](https://ahmadalhallak.com/wp-content/themes/alhallak/assets/docs/Ahmad-Alhallak-CV.pdf)
+📄 CV: [Download](https://ahmadalhallak.com/wp-content/themes/alhallak/assets/docs/Ahmad-Alhallak-CV.pdf?v=20261020)
 
 ## Selected work
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| Burg Karbala Hotel | Client hotel website with an Arabic right to left layout | [Live](https://warm-semolina-db2e54.netlify.app) |
+| Burg Karbala Hotel | Client hotel website with an Arabic right to left layout | [Live](https://warm-semolina-db2e54.netlify.app) · [Code](https://github.com/ahmad4241/burj-karbala-hotel) |
 | Burg Karbala café menu | Digital menu in Arabic, English and Persian with RTL/LTR and dark mode | [Live](https://boisterous-squirrel-26881e.netlify.app) · [Code](https://github.com/ahmad4241/coffee-menu) |
 | Garage Daytona | French WordPress site for a garage in Geneva with booking and a used car catalog | [Live](https://garagedaytona.ch) |
-| Dalla Coffee Roasters | Coffee brand site with a scroll driven animated hero, shop and cart | [Live](https://dalla-coffee-roasters.netlify.app) |
+| Dalla Coffee Roasters | Coffee brand site with a scroll driven animated hero, shop and cart | [Live](https://dalla-coffee-roasters.netlify.app) · [Code](https://github.com/ahmad4241/Dalla-Coffee-Roasters) |
 | CS50 final project | Home goods store front page in HTML and CSS | [Live](https://ahmad-cs50-home-goods.netlify.app) · [Code](https://github.com/ahmad4241/CS50-final-project) |
 
 ## Stack
